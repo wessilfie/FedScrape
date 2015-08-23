@@ -17,4 +17,4 @@ To do this, the user must first use the advanced tools on the Federal Register w
 
 *------How to run this program-------------*
 To run this program, you must first compile it. 
-To do this, one must first 'cd'(place the file summary_script into the desired folder) into the location where they would like the data to be saved and type "python summary_script.py" After the file has been compiled, it should run as created at that point. 
+To do this, one must first 'cd'(place the file fedscrape into the desired folder) into the location where they would like the data to be saved and type "python fedscrape.py" After the file has been compiled, it should run as created at that point. 
